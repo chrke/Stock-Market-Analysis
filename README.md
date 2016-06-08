@@ -10,3 +10,8 @@ This analysis tries to explore the below questions
 5) Correlation between stocks daily return
 6) Risk of investing in the stock
 7) Can we predict future stock behaviour?
+
+
+(This analysis was done as a part of the udemy course
+https://www.udemy.com/learning-python-for-data-analysis-and-visualization/learn/v4/overview
+)
